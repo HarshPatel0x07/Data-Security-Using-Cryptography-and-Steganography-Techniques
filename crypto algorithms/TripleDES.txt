@@ -1,5 +1,8 @@
 import sys
 
+# _pythonMajorVersion is used to handle Python2 and Python3 differences.
+_pythonMajorVersion = sys.version_info[0]
+
 # Modes of crypting / cyphering
 ECB =	0
 CBC =	1
