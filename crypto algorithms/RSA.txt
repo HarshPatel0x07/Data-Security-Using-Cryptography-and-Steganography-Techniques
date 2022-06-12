@@ -1,4 +1,4 @@
-import mat
+import math
  
 print("RSA ENCRYPTOR/DECRYPTOR")
 print("*****************************************************")
