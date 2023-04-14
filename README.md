@@ -51,7 +51,7 @@
 
 
 ## References
-- [Image Cryptography - IJACSA Vol 7, No 6, 2016](http://www.ijarcs.info/index.php/Ijarcs/article/view/2771)
+- [Image Cryptography IJACSA Vol 7, No 6, 2016](http://www.ijarcs.info/index.php/Ijarcs/article/view/2771)
 - [B.Schneier "Applied Cryptography", Second Edition: Protocols, Algorithms adnd Source Code in C, Jan 1996](https://archive.org/download/AppliedCryptographyBruceSchneier/Applied%20Cryptography%20%28Bruce%20Schneier%29.pdf)
 - [Steganography - A Data Hiding Technique](https://www.researchgate.net/publication/49587597_Steganography-_A_Data_Hiding_Technique)
 - [Data Encryption and Decryption by Using Triple DES and Performance Analysis of Crypto System](https://www.ijser.in/archives/v2i11/SjIwMTM0MDM=.pdf)
